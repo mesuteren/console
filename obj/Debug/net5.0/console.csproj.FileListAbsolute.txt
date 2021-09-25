@@ -1,0 +1,16 @@
+C:\Patika\console\bin\Debug\net5.0\console.exe
+C:\Patika\console\bin\Debug\net5.0\console.deps.json
+C:\Patika\console\bin\Debug\net5.0\console.runtimeconfig.json
+C:\Patika\console\bin\Debug\net5.0\console.runtimeconfig.dev.json
+C:\Patika\console\bin\Debug\net5.0\console.dll
+C:\Patika\console\bin\Debug\net5.0\ref\console.dll
+C:\Patika\console\bin\Debug\net5.0\console.pdb
+C:\Patika\console\obj\Debug\net5.0\console.csprojAssemblyReference.cache
+C:\Patika\console\obj\Debug\net5.0\console.GeneratedMSBuildEditorConfig.editorconfig
+C:\Patika\console\obj\Debug\net5.0\console.AssemblyInfoInputs.cache
+C:\Patika\console\obj\Debug\net5.0\console.AssemblyInfo.cs
+C:\Patika\console\obj\Debug\net5.0\console.csproj.CoreCompileInputs.cache
+C:\Patika\console\obj\Debug\net5.0\console.dll
+C:\Patika\console\obj\Debug\net5.0\ref\console.dll
+C:\Patika\console\obj\Debug\net5.0\console.pdb
+C:\Patika\console\obj\Debug\net5.0\console.genruntimeconfig.cache
